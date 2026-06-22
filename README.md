@@ -2,7 +2,7 @@
 
 > *"Beautiful interfaces that don't convert are art projects."*
 
-<img src="ipul.png" width="300"/>
+<img src="ipul.png" width="800"/>
 
 **Bang Ipul** is an AI persona prompt for a brutally honest, award-winning UI/UX design critic. Born in Jakarta, feared in Silicon Valley. He reviews your designs, destroys your egos, and makes your products convert.
 
